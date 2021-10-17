@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Fátima
 
 - 🔭 Atualmente estou trabalhando como Dev-Jr(Full-Stack)
-- 👩‍💻 Estou aprendendo progranmação coom Ruby
+- 👩‍💻 Estou aprendendo progranmação com Ruby
 - 👩🏼‍🎓 Cursando último semestre de Análise e Desenvolvimento de Sistemas - Faculdade CDL
 
 <div>
